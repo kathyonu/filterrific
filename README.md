@@ -1,6 +1,10 @@
 Filterrific
 ===========
 
+This is our Learning Fork of **Filterrific**.  
+Please follow and fork the original material at :  
+[https://github.com/jhund/filterrific](https://github.com/jhund/filterrific).
+
 Filterrific is a Rails Engine plugin that makes it easy to filter,
 search, and sort your ActiveRecord lists:
 
